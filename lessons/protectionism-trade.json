@@ -1,0 +1,136 @@
+{
+  "title": "Protect Us from Foreign Goods",
+  "subtitle": "Protectionism and Trade",
+  "source": "The Economics Book — pp.34–35",
+  "duration": "25 min",
+  "vocabulary": [
+    {
+      "word": "tariffs",
+      "meaning": "taxes placed on goods coming into a country from abroad",
+      "example": "The government added tariffs on imported steel to protect local factories."
+    },
+    {
+      "word": "mercantilist",
+      "meaning": "relating to the belief that a nation's wealth depends on holding as much gold and silver as possible by exporting more than it imports",
+      "example": "Mercantilist thinkers believed a country grew rich by selling abroad and buying little."
+    },
+    {
+      "word": "protectionism",
+      "meaning": "the policy of protecting a country's own industries by restricting imports, for example with tariffs or quotas",
+      "example": "Critics of protectionism argue that trade barriers make goods more expensive for everyone."
+    },
+    {
+      "word": "surplus",
+      "meaning": "an amount that is more than what is needed or used up; in trade, when exports are worth more than imports",
+      "example": "China runs large trade surpluses, selling far more abroad than it buys in."
+    },
+    {
+      "word": "frugal",
+      "meaning": "careful and economical with money or resources; not wasteful",
+      "example": "Mun urged more frugal consumption of foreign goods to keep gold in the country."
+    }
+  ],
+  "idioms": [
+    {
+      "term": "balance of trade",
+      "meaning": "the difference between the value of a country's exports and its imports; “favorable” when more flows in than out.",
+      "examples": [
+        "A country with a favorable balance of trade sells more abroad than it buys.",
+        "In the text: each nation's wealth depended on ensuring a favorable balance of trade."
+      ]
+    },
+    {
+      "term": "a limited pot",
+      "meaning": "the idea that there is a fixed amount of wealth in the world, so one nation can only gain at another's expense.",
+      "examples": [
+        "If you assume the world's wealth is a limited pot, trade looks like a fight over slices.",
+        "In the text: mercantilists believed the world drew from a “limited pot,” unlike Adam Smith, who said the pot can grow."
+      ]
+    }
+  ],
+  "reading": [
+    { "type": "p", "text": "For the last half century many economists have championed free trade. They argue that only by removing restrictions on trade—such as tariffs—can goods and money flow freely around the world and global markets develop. Some disagree, arguing that where there is a huge imbalance of trade between two countries, it can damage jobs and wealth." },
+    { "type": "h3", "text": "A mercantilist view" },
+    { "type": "p", "text": "The argument over free trade dates back to the mercantilist era, which began in Europe in the 16th century and lasted until the late 18th. As Dutch and English seaborne trade rose, wealth shifted from southern Europe to the north. This was also when nation-states began to emerge, along with the idea that a nation's wealth was measured by the amount of “treasure” (gold and silver) it held. Mercantilists believed the world drew from a “limited pot,” so each nation's wealth depended on a favorable “balance of trade,” in which more gold flows in than out." },
+    { "type": "p", "text": "If too much gold flowed out, they believed, prosperity would decline, wages fall, and jobs disappear. England tried to cut the outflow of gold with “sumptuary laws,” which limited the consumption of foreign goods—for example, restricting the types of fabric used for clothes, to reduce demand for foreign cotton and silk." },
+    { "type": "h3", "text": "Malynes and Mun" },
+    { "type": "p", "text": "Gerard de Malynes, an English expert on foreign exchange, believed the outflow of gold should be restricted, or the value of English currency would fall. But the century's greatest mercantilist theorist, Thomas Mun, insisted that what matters is not that payments are made abroad, but how trade and payments finally balance out. Mun wanted to boost exports and cut imports through more frugal consumption, yet he saw no problem in spending gold abroad if it bought goods that could be re-exported for a larger sum, ultimately returning more gold to the country." },
+    { "type": "p", "text": "In the 18th century Adam Smith disagreed. What matters, he wrote in The Wealth of Nations, is not the wealth of individual nations but the wealth of all nations—and the pot is not fixed: it can grow over time, but only if trade between nations is unrestricted. Left free, Smith insisted, the market would grow to enrich all countries eventually. For the last half century Smith's view has dominated, and free-trade areas such as the EU, ASEAN, and NAFTA, and bodies like the WTO and IMF, urge countries to reduce tariffs and other barriers." },
+    { "type": "callout", "title": "Mercantilism today", "text": "Some economists worry that exposure to large global businesses can damage developing countries, which are unable to nurture “infant industries” behind protective barriers—as the US, Britain, Japan, and South Korea did before they became economically powerful.\n\nChina, meanwhile, pursues a trade policy that in many ways echoes Mun's thinking, running large trade surpluses and building up a huge reserve of foreign exchange. So although free trade dominates, the old mercantilist arguments are still very much alive." },
+    { "type": "quote", "text": "Protect us from foreign goods.", "who": "The mercantilist view" }
+  ],
+  "mcq": [
+    {
+      "stem": "What did mercantilists believe a nation's wealth was based on?",
+      "options": [
+        "The amount of “treasure” (gold and silver) it possessed.",
+        "The number of factories it owned.",
+        "The size of its population.",
+        "The amount of free trade it allowed."
+      ],
+      "answer": 0,
+      "explain": "Mercantilists measured a nation's wealth by the amount of gold and silver it held, and aimed for a favorable balance of trade to keep it."
+    },
+    {
+      "stem": "What is a “favorable balance of trade” in mercantilist thinking?",
+      "options": [
+        "When imports are worth more than exports.",
+        "When more gold flows into the nation than flows out.",
+        "When all trade barriers are removed.",
+        "When a country buys only foreign luxury goods."
+      ],
+      "answer": 1,
+      "explain": "A favorable balance of trade means more gold flows in (through exports) than flows out (through imports)."
+    },
+    {
+      "stem": "How did Thomas Mun's view differ from Malynes's?",
+      "options": [
+        "Mun wanted to ban all exports.",
+        "Mun argued that what matters is how trade finally balances out, even allowing spending gold abroad to re-export goods for a larger sum.",
+        "Mun believed gold should never leave the country.",
+        "Mun rejected the idea of national treasure entirely."
+      ],
+      "answer": 1,
+      "explain": "Mun focused on the final balance of trade, accepting that spending gold abroad was fine if it earned back even more through re-export."
+    },
+    {
+      "stem": "What was Adam Smith's key disagreement with the mercantilists?",
+      "options": [
+        "He thought the “pot” of wealth was fixed and could not grow.",
+        "He argued the pot of wealth can grow if trade between nations is unrestricted, enriching all countries.",
+        "He believed only England could grow wealthy.",
+        "He wanted higher tariffs on all goods."
+      ],
+      "answer": 1,
+      "explain": "Smith argued wealth is not a fixed pot; free, unrestricted trade lets the pot grow and eventually enriches all nations."
+    },
+    {
+      "stem": "According to the text, how does modern China's trade policy relate to mercantilism?",
+      "options": [
+        "It completely rejects mercantilist ideas.",
+        "It echoes Mun's thinking by running large trade surpluses and building up foreign exchange reserves.",
+        "It refuses to export any goods.",
+        "It allows totally unrestricted free trade."
+      ],
+      "answer": 1,
+      "explain": "China's policy echoes Mun's thinking, running large trade surpluses and amassing a huge reserve of foreign exchange."
+    }
+  ],
+  "discussion": [
+    {
+      "stem": "Mercantilists believed the world's wealth was a “limited pot,” while Adam Smith said the pot can grow. Which view do you find more convincing, and why?",
+      "hint": "If wealth is fixed, then one country can only gain by taking from another. If it can grow, both sides of a trade can end up better off. Think about whether trade is more like sharing a fixed pie or baking a bigger one.",
+      "sample": "I find Adam Smith's view more convincing. If wealth were a fixed pot, then trade would just be a fight over slices, and one country could only gain by making another poorer. But in reality, when two countries trade what they each make best, both can end up with more goods than before—the pot grows. For example, one country good at making machines and another good at growing food can both benefit by trading. So I think trade can create new wealth, not just move it around, though I accept that the gains are not always shared fairly."
+    },
+    {
+      "stem": "Some economists argue developing countries should be allowed to protect “infant industries” with trade barriers, as the US and Japan once did. Do you think protectionism can ever be justified? Explain.",
+      "hint": "Weigh two ideas: free trade usually gives cheaper goods and efficiency, but a brand-new industry might be crushed by powerful foreign firms before it can grow. Is temporary protection different from permanent protection?",
+      "sample": "I think protectionism can sometimes be justified, but only temporarily. A new industry in a developing country may not survive if huge, established foreign companies are allowed to compete with it immediately—it would be crushed before it had a chance to grow, as the text notes the US and Japan once feared. So short-term protection to let an “infant industry” mature can make sense. The danger is that the protection becomes permanent, keeping industries weak and goods expensive. So I would support limited, temporary protection with a clear plan to open up later."
+    },
+    {
+      "stem": "Free trade usually makes goods cheaper, but it can also cost some workers their jobs when local industries cannot compete. How should a country balance cheaper goods against protecting jobs?",
+      "hint": "Think about who gains and who loses from free trade. Cheaper goods help all consumers a little; lost jobs hurt some workers a lot. What could a government do to help the losers without giving up the gains?",
+      "sample": "I think a country should generally keep trade fairly open, because cheaper goods help all consumers and the economy overall. But it should not ignore the workers who lose their jobs when local industries cannot compete, since the harm to them is real and concentrated. So instead of blocking trade, I would use the gains from cheaper goods to help those workers—through retraining, support payments, and help finding new jobs in growing industries. That way the country keeps the benefits of trade while sharing them more fairly with the people who pay the price."
+    }
+  ]
+}

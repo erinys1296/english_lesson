@@ -1,0 +1,136 @@
+{
+  "title": "The Economy Can Be Counted",
+  "subtitle": "Measuring Wealth",
+  "source": "The Economics Book — pp.36–37",
+  "duration": "25 min",
+  "vocabulary": [
+    {
+      "word": "empirical",
+      "meaning": "based on real observation and data rather than on theory or pure reasoning",
+      "example": "Petty took an empirical approach, using real-world data instead of logic alone."
+    },
+    {
+      "word": "quantify",
+      "meaning": "to measure or express something as a number or amount",
+      "example": "Economists try to quantify the economy so its growth can be tracked."
+    },
+    {
+      "word": "groundbreaking",
+      "meaning": "introducing new ideas or methods; innovative and pioneering",
+      "example": "One of Petty's groundbreaking decisions was to count the value of labor, not just land."
+    },
+    {
+      "word": "definitive",
+      "meaning": "final and complete; not able to be improved or disputed",
+      "example": "There is still no definitive way of calculating a nation's accounts."
+    },
+    {
+      "word": "prosperity",
+      "meaning": "the state of being successful, especially in making money; wealth and well-being",
+      "example": "Economists now try to broaden how they measure a nation's prosperity."
+    }
+  ],
+  "idioms": [
+    {
+      "term": "take it for granted",
+      "meaning": "to assume something is normal or certain without thinking about it or questioning it.",
+      "examples": [
+        "We take it for granted that we can check the time on our phones, but that is recent.",
+        "In the text: today we take it for granted that the economy can be measured, but this was not always the case."
+      ]
+    },
+    {
+      "term": "at the heart of",
+      "meaning": "the most central, important, or essential part of something.",
+      "examples": [
+        "Trust is at the heart of every good friendship.",
+        "In the text: statistics are now at the heart of economics."
+      ]
+    }
+  ],
+  "reading": [
+    { "type": "p", "text": "Today we take it for granted that the economy can be measured, and its expansions and contractions accurately quantified. But this was not always the case. The idea of measuring the economy dates back to the 1670s and the pioneering work of English scientist William Petty. His insight was to apply the new empirical methods of science to financial and political affairs—to use real-world data rather than relying on logical reasoning. He decided to express himself only “in terms of number, weight, or measure.”" },
+    { "type": "p", "text": "This approach helped form the basis of the discipline that would become known as economics. In his 1690 book Political Arithmetick, Petty used real data to show that, contrary to popular belief, England was wealthier than ever. One of his groundbreaking decisions was to include the value of labor as well as land and capital." },
+    { "type": "h3", "text": "Counting a whole nation" },
+    { "type": "p", "text": "Although Petty's figures are open to dispute, there is no doubting the effectiveness of his basic idea. His calculations included population size, personal spending, wages per person, and the value of rents. He multiplied these figures to give a total for the nation's wealth, creating accounts for an entire nation. Similar methods were developed in France by Pierre de Boisguilbert and Sébastien le Prestre, and in England Gregory King analyzed the economies and populations of England, Holland, and France—even calculating how long each could afford to keep fighting the Nine Years' War." },
+    { "type": "h3", "text": "Measures of progress" },
+    { "type": "p", "text": "Statistics are now at the heart of economics. Today, economists generally measure gross domestic product (GDP)—the total value of all goods and services exchanged for money within a country in a period, usually a year. However, there is still no definitive way of calculating national accounts, although efforts have been made to standardize methods." },
+    { "type": "p", "text": "Economists have now begun to broaden the measurement of prosperity. They have formulated new measures such as the genuine progress indicator (GPI), which includes adjustments for income distribution, crime, and pollution, and the happy planet index (HPI), a measure of human well-being and environmental impact. These newer measures try to capture things that GDP alone leaves out." },
+    { "type": "callout", "title": "Who was William Petty?", "text": "Born in 1623 to a humble family in Hampshire, England, William Petty lived through the English Civil War and rose to high positions in government. As a young man he worked for the philosopher Thomas Hobbes, later taught anatomy at Oxford, and made a monumental land survey of Ireland.\n\nIn the 1660s he returned to England and began the work on economics for which he is now known, using real data and measurement. Petty is regarded as one of the first great political economists. He died in 1687, aged 64." },
+    { "type": "quote", "text": "The economy can be counted.", "who": "After William Petty" }
+  ],
+  "mcq": [
+    {
+      "stem": "What was William Petty's key insight about studying the economy?",
+      "options": [
+        "That the economy is impossible to measure.",
+        "That you should apply empirical, scientific methods and use real-world data rather than pure reasoning.",
+        "That only a country's gold should be counted.",
+        "That logic alone is enough to understand wealth."
+      ],
+      "answer": 1,
+      "explain": "Petty applied the new empirical methods of science—using real data and expressing things “in terms of number, weight, or measure.”"
+    },
+    {
+      "stem": "What was groundbreaking about how Petty calculated a nation's wealth?",
+      "options": [
+        "He counted only the value of gold and silver.",
+        "He included the value of labor, as well as land and capital.",
+        "He ignored the population entirely.",
+        "He measured only the wealth of kings."
+      ],
+      "answer": 1,
+      "explain": "One of Petty's groundbreaking decisions was to include the value of labor as well as land and capital."
+    },
+    {
+      "stem": "What does GDP measure?",
+      "options": [
+        "The total amount of gold a country owns.",
+        "The total value of all goods and services exchanged for money in a country in a period.",
+        "The number of people living in a country.",
+        "The happiness of a country's citizens."
+      ],
+      "answer": 1,
+      "explain": "GDP is the total value of all goods and services exchanged for money within a country in a particular period, usually a year."
+    },
+    {
+      "stem": "Why have economists begun creating measures such as the GPI and HPI?",
+      "options": [
+        "Because GDP is now impossible to calculate.",
+        "To broaden the measurement of prosperity and capture things GDP leaves out, like pollution and well-being.",
+        "To replace money with a new currency.",
+        "To measure only a country's gold reserves."
+      ],
+      "answer": 1,
+      "explain": "Newer measures like the GPI and HPI try to broaden prosperity measurement, adjusting for income distribution, crime, pollution, and well-being."
+    },
+    {
+      "stem": "According to the text, is there a perfect, agreed way to calculate a nation's accounts?",
+      "options": [
+        "Yes, GDP is calculated the same way everywhere with no dispute.",
+        "No, there is still no definitive way, though efforts have been made to standardize methods.",
+        "Yes, William Petty's method is still used unchanged.",
+        "No, and no one has ever tried to standardize it."
+      ],
+      "answer": 1,
+      "explain": "The text says there is still no definitive way of calculating national accounts, although there have been efforts to standardize methods."
+    }
+  ],
+  "discussion": [
+    {
+      "stem": "GDP measures the value of goods and services exchanged for money, but it leaves out things like unpaid housework, free time, and environmental damage. Do you think GDP is a good measure of how well a country is doing? Why or why not?",
+      "hint": "Think about what GDP counts and what it ignores. A country could have a high GDP but heavy pollution, long working hours, and unhappy people. Does “more money changing hands” always mean a better life?",
+      "sample": "I think GDP is useful but not enough on its own. It is good at showing how much economic activity is happening, which matters for jobs and incomes. But it ignores important things: unpaid work like caring for family, the value of free time, and the harm of pollution. A country could have a high GDP while its people are overworked and its environment is damaged. So I think GDP should be used alongside other measures, like the ones in the text that include well-being and the environment, to give a fuller picture of how a country is really doing."
+    },
+    {
+      "stem": "Petty's big idea was to measure the economy with real data instead of just reasoning about it. Why do you think using real data is so important in economics? Can you think of a risk in relying only on numbers?",
+      "hint": "Data lets us test ideas against reality rather than just guessing. But numbers can also be incomplete, badly collected, or measure the wrong thing. Think about both the power and the limits of statistics.",
+      "sample": "Using real data is important because it lets economists test their ideas against what is actually happening, instead of just arguing from logic, which can lead to confident but wrong conclusions. Petty showed England was wealthier than people assumed precisely by measuring. But relying only on numbers has risks too: data can be incomplete or badly collected, and we might measure the wrong thing—counting what is easy to count rather than what really matters, like happiness or fairness. So data is powerful, but it needs to be chosen carefully and combined with good judgment."
+    },
+    {
+      "stem": "If you were designing a new way to measure how well a country is doing, what three things would you include and why?",
+      "hint": "Think beyond money. You might include health, education, the environment, equality, free time, or safety. Pick three and explain why each one matters for a good life.",
+      "sample": "If I were designing a new measure, I would include three things. First, health and life expectancy, because a country where people live long, healthy lives is clearly doing something right. Second, education, because it gives people opportunities and helps the whole society improve over time. Third, the state of the environment, because economic activity that destroys clean air, water, and nature is borrowing from the future. I would still keep something like GDP to track jobs and income, but combining it with health, education, and the environment would give a much fuller picture of a good life than money alone."
+    }
+  ]
+}

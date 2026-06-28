@@ -22,6 +22,41 @@
           "subtitle": "Markets and Morality · pp.22–23",
           "duration": "25 min",
           "file": "lessons/just-price.json"
+        },
+        {
+          "id": "function-of-money",
+          "title": "You Don't Need to Barter When You Have Coins",
+          "subtitle": "The Function of Money · pp.24–25",
+          "duration": "25 min",
+          "file": "lessons/function-of-money.json"
+        },
+        {
+          "id": "financial-services",
+          "title": "Make Money from Money",
+          "subtitle": "Financial Services · pp.26–29",
+          "duration": "25 min",
+          "file": "lessons/financial-services.json"
+        },
+        {
+          "id": "quantity-theory-money",
+          "title": "Money Causes Inflation",
+          "subtitle": "The Quantity Theory of Money · pp.30–33",
+          "duration": "25 min",
+          "file": "lessons/quantity-theory-money.json"
+        },
+        {
+          "id": "protectionism-trade",
+          "title": "Protect Us from Foreign Goods",
+          "subtitle": "Protectionism and Trade · pp.34–35",
+          "duration": "25 min",
+          "file": "lessons/protectionism-trade.json"
+        },
+        {
+          "id": "measuring-wealth",
+          "title": "The Economy Can Be Counted",
+          "subtitle": "Measuring Wealth · pp.36–37",
+          "duration": "25 min",
+          "file": "lessons/measuring-wealth.json"
         }
       ]
     }

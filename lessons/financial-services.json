@@ -1,0 +1,135 @@
+{
+  "title": "Make Money from Money",
+  "subtitle": "Financial Services",
+  "source": "The Economics Book — pp.26–29",
+  "duration": "25 min",
+  "vocabulary": [
+    {
+      "word": "usury",
+      "meaning": "the practice of lending money at very high or unfair rates of interest",
+      "example": "Medieval scholars condemned usury, treating high-interest lending as sinful."
+    },
+    {
+      "word": "leverage",
+      "meaning": "the use of borrowed money to increase the possible profit (or loss) of an investment",
+      "example": "Banks use leverage by lending out depositors' money to multiply their profits."
+    },
+    {
+      "word": "diversification",
+      "meaning": "the practice of spreading money across many different investments to reduce risk",
+      "example": "Through diversification, the Medici Bank lowered its risk by lending in many cities."
+    },
+    {
+      "word": "liquid",
+      "meaning": "(of an asset) easily and quickly turned into cash",
+      "example": "Shares traded on a stock exchange are liquid because they can be sold at any time."
+    },
+    {
+      "word": "default",
+      "meaning": "to fail to repay a loan or meet a financial obligation",
+      "example": "If borrowers default, the bank loses the money it lent them."
+    }
+  ],
+  "idioms": [
+    {
+      "term": "borrowing short and lending long",
+      "meaning": "taking in money that can be withdrawn quickly while lending it out for long periods—the basic, risky business of banking.",
+      "examples": [
+        "Banks make profit by borrowing short and lending long, but this leaves them exposed if many savers want their money at once.",
+        "In the text: the bank stood between two needs, “borrowing short, and lending long.”"
+      ]
+    },
+    {
+      "term": "a run on the bank",
+      "meaning": "a situation where many depositors try to withdraw their money at the same time, which a bank may be unable to meet.",
+      "examples": [
+        "Rumors that the bank was failing caused a run on the bank the next morning.",
+        "In the text: if many depositors demand their money at the same time—a run on the bank—the bank may be unable to provide it."
+      ]
+    }
+  ],
+  "reading": [
+    { "type": "p", "text": "Humans have long engaged in borrowing and lending—there is evidence of it 5,000 years ago in Mesopotamia. But modern banking systems did not emerge until the 14th century in northern Italy. The word “bank” comes from the Italian word for the “bench” on which bankers sat to conduct business. Italy's city-states benefited from trade between Asia, Africa, and Europe, and wealth began to accumulate, especially in Venice and Florence." },
+    { "type": "p", "text": "Florence was home to banking families such as the Peruzzi and the Bardi, and to bodies ranging from pawnbrokers to local banks. The bank founded by Giovanni di Bicci de' Medici in 1397 was different. The Medici Bank financed long-distance trade in commodities such as wool, and differed from existing banks in three ways: it grew to a great size, running branches in 11 cities; its network was decentralized, with each branch run by a local junior partner who shared in the profits; and its branches took in large deposits from wealthy savers, multiplying the lending it could offer." },
+    { "type": "h3", "text": "The economics of banking" },
+    { "type": "p", "text": "The Medici success matched three economic concepts still important today. The first is economies of scale: it is expensive for an individual to draw up a single loan contract, but a bank can draw up a thousand at a fraction of the per-contract cost. The second is diversification of risk: the Medicis lowered the risk of bad lending by spreading it geographically, and because junior partners shared in profits and losses, they lent wisely. The third is asset transformation: a bank stands between savers who want to deposit money and borrowers who want loans." },
+    { "type": "p", "text": "So the bank came to stand between two needs—“borrowing short, and lending long.” This suited the depositor, the borrower, and the bank, which used customer deposits as borrowed money (leverage) to multiply profits. But it also makes a bank vulnerable: if a large number of depositors demand their money at the same time (a run on the bank), the bank may be unable to provide it, because it has used the deposits to make long-term loans and keeps only a small fraction in ready cash." },
+    { "type": "p", "text": "Lending requires specialized, skilled knowledge, because a lack of information (“information asymmetry”) can cause serious problems. The borrowers least likely to repay are the ones most likely to ask for loans, and once they have a loan there are temptations not to repay. A bank's most important function is its ability to lend wisely and then to monitor borrowers to deter “moral hazard”—the temptation to default. Finance broadly is about connecting people who have more money than they need with people who need more and will use it productively." },
+    { "type": "callout", "title": "A 21st-century banking crisis", "text": "The global financial crisis that began in 2007 led to rethinking about banking. Leverage—borrowed money—lay at the heart of the crisis. In 1900, about three-quarters of a bank's assets might be financed by borrowed money; in 2007 the proportion was often 95–99 percent.\n\nThe crisis followed a period of deregulation. Financial innovations seemed lucrative in a rising market but led to poor lending: housing loans to poor US families who could not repay, and bond investors who relied too heavily on credit rating agencies. These were the same issues faced by all banks since the Medicis: poor information, financial incentives, and risk." },
+    { "type": "quote", "text": "A banker is a fellow who lends you his umbrella when the sun is shining, but wants it back the minute it begins to rain.", "who": "Mark Twain" }
+  ],
+  "mcq": [
+    {
+      "stem": "Where and when did modern banking systems first emerge?",
+      "options": [
+        "In Mesopotamia, 5,000 years ago.",
+        "In northern Italy, in the 14th century.",
+        "In London, in the 19th century.",
+        "In China, in the 10th century."
+      ],
+      "answer": 1,
+      "explain": "Although borrowing and lending are ancient, the text says modern banking systems did not emerge until the 14th century in northern Italy."
+    },
+    {
+      "stem": "What does “borrowing short and lending long” mean for a bank?",
+      "options": [
+        "It borrows for long periods and lends for short ones.",
+        "It takes in deposits that can be withdrawn quickly but lends money out for long periods.",
+        "It only lends to short-term customers.",
+        "It avoids lending money altogether."
+      ],
+      "answer": 1,
+      "explain": "Banks take deposits that savers can withdraw quickly (short) while making long-term loans (long), which is profitable but risky."
+    },
+    {
+      "stem": "Why is a “run on the bank” dangerous?",
+      "options": [
+        "The bank has lent out most deposits, keeping only a small amount in cash.",
+        "The bank refuses to accept any new deposits.",
+        "The bank has too much cash sitting unused.",
+        "Depositors are charged extra fees to withdraw."
+      ],
+      "answer": 0,
+      "explain": "Because the bank uses deposits to make long-term loans and keeps only a small fraction in ready cash, it cannot pay everyone at once if many withdraw together."
+    },
+    {
+      "stem": "What is “moral hazard” as described in the text?",
+      "options": [
+        "The risk that a bank will charge unfair interest.",
+        "The temptation for borrowers not to repay once they have received a loan.",
+        "The danger of lending to too many different cities.",
+        "The risk of keeping too much cash in reserve."
+      ],
+      "answer": 1,
+      "explain": "Moral hazard is when people succumb to the temptation not to repay and default on a loan; banks monitor borrowers to deter it."
+    },
+    {
+      "stem": "Which of these was one of the three ways the Medici Bank differed from earlier banks?",
+      "options": [
+        "It refused to take deposits from wealthy savers.",
+        "Its network was decentralized, with branches run by local junior partners who shared in the profits.",
+        "It lent money only within the city of Florence.",
+        "It avoided long-distance trade entirely."
+      ],
+      "answer": 1,
+      "explain": "The Medici Bank was large, took big deposits, and—crucially—was decentralized, with each branch run by a profit-sharing local junior partner."
+    }
+  ],
+  "discussion": [
+    {
+      "stem": "The text says a bank's most important function is to “lend wisely” and monitor its borrowers. Why is good information so important to banking? Give an example.",
+      "hint": "Think about “information asymmetry”—the borrower usually knows more about their own ability and willingness to repay than the bank does. What problems arise when the bank lends without enough information?",
+      "sample": "Good information matters because the borrower almost always knows more than the bank about whether they can and will repay. This is information asymmetry. For example, if a bank lends to someone for a business without checking whether the business is sound, the borrower may take the money knowing the plan is weak, and then default. The 2007 crisis showed this: loans were given to families who could not repay, partly because lenders did not have or did not use good information. So gathering information and monitoring borrowers protects both the bank and its depositors."
+    },
+    {
+      "stem": "Banks use leverage—lending out depositors' money—to make bigger profits, but this also makes them more likely to fail. Do you think banks should be allowed to use high leverage? Why or why not?",
+      "hint": "Weigh the benefit (more lending, more profit, more money flowing to businesses) against the risk (a run on the bank, or a crisis like 2007 when leverage reached 95–99%). Think about whether rules or limits would help.",
+      "sample": "I think banks should be allowed to use some leverage, because it lets them lend more money to businesses and families, which helps the whole economy grow. But high leverage is dangerous: when banks borrowed 95–99% of their assets before 2007, even a small fall in value could make them collapse, hurting everyone. So I would allow leverage but set clear limits and rules, so banks keep enough of their own money in reserve to survive bad times. This balances growth with safety."
+    },
+    {
+      "stem": "Mark Twain joked that a banker lends you an umbrella when it is sunny but wants it back when it rains. What point is he making about banks, and do you think it is fair?",
+      "hint": "The “umbrella” is the loan; “rain” is hard times. Twain suggests banks lend when you don't really need money but pull it back when you do. Consider the bank's side too—why might it behave this way?",
+      "sample": "Twain is pointing out that banks seem happy to lend when a customer is doing well and least needs help, but demand repayment as soon as the customer hits hard times and needs support most. It feels unfair to the borrower. But from the bank's side, it is protecting its depositors' money: lending to someone in trouble is riskier and could cause the bank itself to fail. So the joke captures a real frustration, but the bank's caution is also understandable, since it is handling other people's savings, not just its own."
+    }
+  ]
+}

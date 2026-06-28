@@ -1,0 +1,136 @@
+{
+  "title": "Money Causes Inflation",
+  "subtitle": "The Quantity Theory of Money",
+  "source": "The Economics Book — pp.30–33",
+  "duration": "25 min",
+  "vocabulary": [
+    {
+      "word": "inflation",
+      "meaning": "a general rise in prices over time, so that money buys less than before",
+      "example": "When prices doubled over the decade, people felt the effects of inflation in every shop."
+    },
+    {
+      "word": "debasing",
+      "meaning": "lowering the value of a coin or currency, for example by reducing the amount of precious metal in it",
+      "example": "Rulers were debasing the currency by minting coins with less and less gold."
+    },
+    {
+      "word": "abundance",
+      "meaning": "a very large quantity of something; plenty",
+      "example": "The abundance of silver from the Americas pushed up prices across Europe."
+    },
+    {
+      "word": "velocity",
+      "meaning": "the speed at which money circulates through an economy, passing from hand to hand",
+      "example": "If the velocity of money rises, the same coins are spent more often each year."
+    },
+    {
+      "word": "neutral",
+      "meaning": "having no real effect; in economics, affecting only money prices and not real output",
+      "example": "Some economists argue that, in the long run, money is neutral and changes only prices."
+    }
+  ],
+  "idioms": [
+    {
+      "term": "too much money chasing too few goods",
+      "meaning": "a common way of describing inflation: when buyers have more money but the supply of goods stays limited, prices rise.",
+      "examples": [
+        "After the government printed more cash, there was too much money chasing too few goods, and prices soared.",
+        "In the text: there will be too much money chasing too few goods, and prices will rise."
+      ]
+    },
+    {
+      "term": "store of value",
+      "meaning": "something that holds its worth over time, so it can be kept and used to buy things later.",
+      "examples": [
+        "Many people treat gold as a store of value during uncertain times.",
+        "In the text: money is used not just as a medium of exchange but also as a store of value."
+      ]
+    }
+  ],
+  "reading": [
+    { "type": "p", "text": "In 16th-century Europe prices were rising inexplicably. Some blamed rulers for “debasing” currencies—minting coins with ever-smaller amounts of gold or silver. This was true, but Jean Bodin, a French lawyer, argued that something more significant was also happening. In his 1568 Response to the Paradoxes of Malestroit, he showed that prices were rising sharply even when measured in pure silver." },
+    { "type": "p", "text": "Bodin argued that an abundance of silver and gold was to blame. These metals were entering Spain from its colonies in the Americas and spreading through Europe. Prices in Europe quadrupled during the 16th century, while the amount of silver and gold roughly tripled. He also noted other factors: demand for luxuries, scarcity of goods due to exports, monopolies restricting supply, and rulers adulterating coins. His study is considered the first important statement of the quantity theory of money." },
+    { "type": "h3", "text": "Too much money chasing too few goods" },
+    { "type": "p", "text": "The reasoning is partly common sense. Why is a cup of coffee more expensive in a rich part of town than a poor one? Because customers there have more money to spend. If you double the money in everyone's pockets across a country, people will want to buy more goods and services—but goods are always in limited supply, so there will be too much money chasing too few goods, and prices will rise. The quantity theory of money states that a doubling of the money supply will result in a doubling in the value of transactions." },
+    { "type": "h3", "text": "Real price and nominal price" },
+    { "type": "p", "text": "Later economists separated the “real” side of the economy from the “nominal,” or money, side. Nominal prices are simply money prices, which change with inflation; real prices are about how much of one thing must be given up to get another. In the extreme version of the theory, changes in the money supply influence prices but have no effect on real variables such as output and unemployment—so money is said to be “neutral.”" },
+    { "type": "p", "text": "The fullest statement came from US economist Irving Fisher, who used the formula MV = PT. Here M is the money supply, V the velocity of money (how fast it circulates), P the general price level, and T the number of transactions in a year. By assuming V and T are roughly constant, the equation implies that doubling M will double prices. But is money really neutral? Keynes thought it was neutral in the long run but not the short run, and argued that money's velocity is not constant—it rises in booms and falls in recessions." },
+    { "type": "callout", "title": "Money as a store of value", "text": "Money is used not just as a medium of exchange but also as a “store of value”—something you can keep, for buying goods later, for security in hard times, or for future investment.\n\nKeynesian economists argue that the desire to hold money is affected less by income than by interest rates: a rise in the interest rate raises the velocity of money. In 1956, Milton Friedman defended the quantity theory, arguing that people's demand for “real money” (money that buys more) depends on their wealth and income. Today central banks create money electronically to buy government debt, a process called quantitative easing." },
+    { "type": "quote", "text": "Inflation is always and everywhere a monetary phenomenon.", "who": "Milton Friedman" }
+  ],
+  "mcq": [
+    {
+      "stem": "According to Jean Bodin, what was the main cause of rising prices in 16th-century Europe?",
+      "options": [
+        "A shortage of workers across the continent.",
+        "An abundance of silver and gold flowing in from the Americas.",
+        "A fall in the demand for luxury goods.",
+        "Wars that destroyed European farmland."
+      ],
+      "answer": 1,
+      "explain": "Bodin showed prices rose even measured in pure silver, and blamed the abundance of gold and silver entering Spain from the Americas."
+    },
+    {
+      "stem": "What does the phrase “too much money chasing too few goods” describe?",
+      "options": [
+        "A shortage of money in the economy.",
+        "Inflation: more money but a limited supply of goods, pushing prices up.",
+        "A fall in prices when goods are plentiful.",
+        "The exchange of goods without money."
+      ],
+      "answer": 1,
+      "explain": "When people have more money but goods stay limited in supply, prices rise—this is inflation, the heart of the quantity theory."
+    },
+    {
+      "stem": "In Irving Fisher's equation MV = PT, what does “V” stand for?",
+      "options": [
+        "The total value of all goods.",
+        "The velocity of money—how fast it circulates through the economy.",
+        "The volume of gold in reserve.",
+        "The variety of goods for sale."
+      ],
+      "answer": 1,
+      "explain": "V is the velocity of money, the speed at which money rotates through the economy, often assumed constant in the theory."
+    },
+    {
+      "stem": "What does it mean to say money is “neutral”?",
+      "options": [
+        "Money has no colour or design.",
+        "Changes in the money supply affect prices but not real variables like output and unemployment.",
+        "Money is shared equally among everyone.",
+        "Money cannot be used to buy goods."
+      ],
+      "answer": 1,
+      "explain": "Neutrality means a change in the money supply changes only nominal prices, not real output or employment."
+    },
+    {
+      "stem": "How did Keynes challenge the extreme quantity theory of money?",
+      "options": [
+        "He said money has no effect on prices at all.",
+        "He argued money's velocity is not constant and that money affects real variables in the short run.",
+        "He claimed gold was the only true money.",
+        "He rejected the idea that prices ever rise."
+      ],
+      "answer": 1,
+      "explain": "Keynes argued velocity is not constant (it rises in booms, falls in recessions) and that money affects output and unemployment in the short run."
+    }
+  ],
+  "discussion": [
+    {
+      "stem": "The quantity theory says that if a government doubles the money supply, prices will simply double. Do you think printing more money is a good way to make a country richer? Why or why not?",
+      "hint": "If everyone has twice as much money but there are the same number of goods, what really changes—the amount you can buy, or just the price tags? Think about real value versus nominal value.",
+      "sample": "I don't think simply printing money makes a country richer. If everyone suddenly has twice as much money but the country still produces the same amount of goods, then prices just double and people can buy the same as before—only the numbers on the price tags change. This is the difference between nominal value (the money price) and real value (what you can actually buy). To become truly richer, a country needs to produce more goods and services, not just print more money. Printing money mainly causes inflation."
+    },
+    {
+      "stem": "Keynes disagreed that money is always “neutral,” saying it can affect real things like jobs and output in the short run. Whose view seems more convincing to you—the strict quantity theory or Keynes's—and why?",
+      "hint": "Think about what happens immediately when people suddenly have more money to spend. Does only the price change, or do shops also sell more, hire more staff, and produce more—at least for a while?",
+      "sample": "Keynes's view seems more convincing to me, at least in the short run. When people suddenly have more money, the first thing they do is spend it on real goods and services. Shops then sell more, may hire more workers, and produce more, so output and jobs really are affected—not just prices. Over a long time, the strict quantity theory may hold, as extra money mostly feeds into prices. So I think both have a point: money is not neutral in the short run, but its effect becomes mostly about prices in the long run."
+    },
+    {
+      "stem": "Friedman said “inflation is always and everywhere a monetary phenomenon”—meaning it comes from the amount of money. Can you think of any causes of rising prices that are NOT about the money supply? Explain.",
+      "hint": "Think about supply shocks: what happens to prices if oil becomes scarce, a harvest fails, or a war disrupts trade? Are those caused by too much money, or by something else?",
+      "sample": "Yes, I think some price rises are not really about the money supply. For example, if a war or disaster cuts off the supply of oil, fuel becomes scarce and its price rises sharply, even if the amount of money has not changed. The same happens if a bad harvest makes food scarce. These are “supply shocks,” where prices rise because goods are fewer, not because money is more plentiful. So while Friedman is right that printing too much money causes inflation, I think real shortages can also push prices up on their own."
+    }
+  ]
+}
