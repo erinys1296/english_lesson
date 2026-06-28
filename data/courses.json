@@ -15,6 +15,13 @@
           "subtitle": "Property Rights · pp.20–21",
           "duration": "25 min",
           "file": "lessons/property-rights.json"
+        },
+        {
+          "id": "just-price",
+          "title": "What Is a Just Price?",
+          "subtitle": "Markets and Morality · pp.22–23",
+          "duration": "25 min",
+          "file": "lessons/just-price.json"
         }
       ]
     }

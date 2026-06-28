@@ -1,0 +1,134 @@
+{
+  "title": "What Is a Just Price?",
+  "subtitle": "Markets and Morality",
+  "source": "The Economics Book — pp.22–23",
+  "duration": "25 min",
+  "vocabulary": [
+    {
+      "word": "exploited",
+      "meaning": "treated unfairly in order to benefit from someone, often by overcharging or underpaying them",
+      "example": "Tourists are often exploited by sellers who raise prices near famous attractions."
+    },
+    {
+      "word": "prevailing",
+      "meaning": "most common or widely accepted at a particular time",
+      "example": "According to the prevailing view among economists, prices come from supply and demand."
+    },
+    {
+      "word": "intrinsic",
+      "meaning": "belonging naturally to something; existing as a basic part of its own nature",
+      "example": "Market economists argue that nothing—not even gold—has an intrinsic value."
+    },
+    {
+      "word": "avarice",
+      "meaning": "extreme greed for wealth or material gain",
+      "example": "Aquinas regarded avarice as a deadly sin and warned merchants against it."
+    },
+    {
+      "word": "deception",
+      "meaning": "the act of making someone believe something that is not true",
+      "example": "A just price requires that no deception be involved in setting the value of the goods."
+    }
+  ],
+  "idioms": [
+    {
+      "term": "ripped off",
+      "meaning": "cheated by being charged far more than something is worth.",
+      "examples": [
+        "I felt ripped off after paying triple the normal price for a bottle of water.",
+        "In the text: many people know what it is like to be exploited or “ripped off” by a vendor."
+      ]
+    },
+    {
+      "term": "push the price to its limits",
+      "meaning": "to raise a price as high as buyers will still tolerate before they stop buying.",
+      "examples": [
+        "During the shortage, sellers pushed the price to its limits until customers refused to pay.",
+        "In the text: merchants who appear to be overcharging are simply pushing the price to its limits."
+      ]
+    }
+  ],
+  "reading": [
+    { "type": "p", "text": "Many people know what it is like to be exploited or “ripped off” by a vendor, such as when buying overpriced ice-creams at a tourist venue. Yet according to prevailing economic theory, there is no such thing as a rip-off. The price of anything is simply the market price—the price people are prepared to pay. For market economists there is no moral dimension to price at all—pricing is simply an automatic function of supply and demand. Merchants who appear to be overcharging are simply pushing the price to its limits. If they push their price further than people are prepared to pay, people stop buying, so the merchants are forced to bring down their prices. Market economists consider the marketplace to be the only way to establish price, as nothing—not even gold—has an intrinsic value." },
+    { "type": "h3", "text": "A price freely accepted" },
+    { "type": "p", "text": "The idea that the marketplace should set prices seems to contrast sharply with the view expressed by Sicilian scholar Thomas Aquinas in his Summa Theologica, one of the first studies of the marketplace. For Aquinas, a scholar monk, price was a deeply moral issue. Aquinas recognized avarice as a deadly sin, but at the same time he saw that if a merchant is deprived of the profit incentive, he would cease to trade, and the community would be deprived of goods it needed." },
+    { "type": "p", "text": "Aquinas concluded that a merchant may charge a “just price,” which includes a decent profit, but excludes excessive profiteering, which is sinful. This just price is simply the price the buyer freely agrees to pay, given honest information. The vendor is not obliged to make the buyer aware of facts that might lower the price in the future, such as the shiploads of cheap spice due to dock shortly." },
+    { "type": "p", "text": "The issues of price and morality are very much alive today, since both economists and the public discuss “the just price” of a CEO’s bonus or the minimum wage. Free market economists, who reject interference in the market, and those who advocate government intervention—whether for moral or economic reasons—continue to argue about the rights and wrongs of imposing restrictions on pricing." },
+    { "type": "callout", "title": "Just price in the Middle Ages", "text": "Medieval communities felt strongly about the prices merchants charged. In 1321, William le Bole of London was punished for selling underweight bread by being dragged through the streets.\n\nThomas Aquinas (1225–74), a Dominican monk and one of the greatest scholars of the Middle Ages, argued in his Summa Theologica that price was a moral matter. He recognized that merchants need a profit to keep trading, but insisted that charging more than a thing is worth, out of avarice, is sinful." },
+    { "type": "quote", "text": "No man should sell a thing to another man for more than its worth.", "who": "Thomas Aquinas" }
+  ],
+  "mcq": [
+    {
+      "stem": "According to market economists, what determines the price of something?",
+      "options": [
+        "The moral worth of the goods being sold.",
+        "What people are prepared to pay—supply and demand.",
+        "A fixed value set by the government.",
+        "The amount of gold a society owns."
+      ],
+      "answer": 1,
+      "explain": "For market economists there is no moral dimension to price; pricing is “simply an automatic function of supply and demand.”"
+    },
+    {
+      "stem": "Why did Aquinas believe a merchant must be allowed to make a profit?",
+      "options": [
+        "Because profit is a reward for moral behavior.",
+        "Because without the profit incentive he would stop trading, leaving the community without goods.",
+        "Because the government required merchants to earn money.",
+        "Because gold has an intrinsic value that must be matched."
+      ],
+      "answer": 1,
+      "explain": "Aquinas saw that if a merchant is deprived of the profit incentive, he would cease to trade, and the community would lack the goods it needed."
+    },
+    {
+      "stem": "According to Aquinas, what makes a price a “just price”?",
+      "options": [
+        "It is the highest price the seller can possibly get.",
+        "It includes a decent profit but excludes excessive profiteering, with honest information.",
+        "It is always set lower than the market price.",
+        "It is decided only by the seller, not the buyer."
+      ],
+      "answer": 1,
+      "explain": "A just price includes a decent profit but excludes excessive (sinful) profiteering, and is the price the buyer freely agrees to pay given honest information."
+    },
+    {
+      "stem": "What did Aquinas say a vendor is NOT obliged to do?",
+      "options": [
+        "Charge a decent profit.",
+        "Tell the buyer about future events that might lower the price, such as cheap spice arriving soon.",
+        "Give the buyer honest information about the goods.",
+        "Avoid deceiving the buyer."
+      ],
+      "answer": 1,
+      "explain": "The vendor need not warn the buyer of facts that might lower the price later, such as shiploads of cheap spice about to dock."
+    },
+    {
+      "stem": "How does the text say the debate about a “just price” still appears today?",
+      "options": [
+        "In arguments about whether gold should back currency.",
+        "In discussions of a CEO’s bonus or the minimum wage.",
+        "In laws banning all forms of profit.",
+        "In medieval punishments for dishonest bakers."
+      ],
+      "answer": 1,
+      "explain": "The text says people still discuss “the just price” of a CEO’s bonus or the minimum wage, showing the issue is alive today."
+    }
+  ],
+  "discussion": [
+    {
+      "stem": "Market economists say there is no such thing as being “ripped off”—the price is simply what people will pay. Do you agree? Why or why not?",
+      "hint": "Think about situations where a buyer has no real choice (emergencies, tourist traps, monopolies). Is a price still “fair” if the buyer agrees but had no alternative? Compare the market view with Aquinas’s moral view.",
+      "sample": "I partly disagree. In a normal market with many sellers, I agree the price is just what buyers will pay, because they can walk away and choose another seller. But in situations where the buyer has no real choice—like medicine in an emergency or water in a disaster—charging an extreme price feels like being ripped off, even if the buyer “agrees.” So I think Aquinas has a point: there is a moral limit beyond which a high price becomes unjust, not just high."
+    },
+    {
+      "stem": "Aquinas said no one should sell a thing for more than its worth. But who decides what something is really “worth”? Explain your view with an example.",
+      "hint": "Consider different ways to measure worth: the cost to make it, how useful it is, how rare it is, or simply what someone will pay. Is there one true “worth,” or does it depend on the situation?",
+      "sample": "I think “worth” is hard to fix because it depends on the situation. A bottle of water is worth very little in a supermarket but a lot in a desert. One way to judge worth is the cost of making the item plus a fair profit, which is close to Aquinas’s idea. Another is simply what buyers will pay, which is the market view. In my opinion, worth is a mix: production cost sets a reasonable floor, but usefulness and rarity also matter—so a fair price stays close to cost without using a buyer’s desperation to push it far higher."
+    },
+    {
+      "stem": "Today people still argue about the “just price” of things like a CEO’s bonus or the minimum wage. Should the government set limits on prices and wages, or should the market decide? Give reasons.",
+      "hint": "Weigh both sides: government limits can protect people from exploitation, but they may also reduce the incentive to work or trade (the same worry Aquinas had). Think of a real example where each side seems right.",
+      "sample": "I think a balance is best. Letting the market decide keeps the incentive to work and trade, which Aquinas warned we must protect, and it usually sets prices efficiently. But pure market outcomes can be unfair—for example, a minimum wage protects workers who would otherwise be paid too little to live on. So I would let the market set most prices, but allow the government to set limits where people are vulnerable or have no real choice, such as minimum wages or the price of essential medicines."
+    }
+  ]
+}
