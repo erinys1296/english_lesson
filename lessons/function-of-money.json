@@ -1,0 +1,137 @@
+{
+  "title": "You Don't Need to Barter When You Have Coins",
+  "subtitle": "The Function of Money",
+  "source": "The Economics Book — pp.24–25",
+  "duration": "25 min",
+  "vocabulary": [
+    {
+      "word": "barter",
+      "meaning": "to exchange goods or services for other goods or services without using money",
+      "example": "Before coins existed, people had to barter, swapping grain for tools or cloth."
+    },
+    {
+      "word": "dispensing",
+      "meaning": "doing without something; managing without using it",
+      "example": "Dispensing with cash does not mean that money is no longer used."
+    },
+    {
+      "word": "tribute",
+      "meaning": "a payment made to show respect or to acknowledge someone's power",
+      "example": "Conquered cities often paid tribute to the empire that ruled them."
+    },
+    {
+      "word": "yardstick",
+      "meaning": "a standard used for measuring or comparing the value of things",
+      "example": "Money gives us a yardstick for comparing the cost of very different goods."
+    },
+    {
+      "word": "convertibility",
+      "meaning": "the ability to be exchanged for something else, such as paper money for gold",
+      "example": "In 1971 the US ended the convertibility of the dollar to gold."
+    }
+  ],
+  "idioms": [
+    {
+      "term": "double coincidence of wants",
+      "meaning": "the situation barter needs, where each person happens to have exactly what the other one wants.",
+      "examples": [
+        "Barter only works with a double coincidence of wants—the baker must want shoes and the shoemaker must want bread.",
+        "In the text: barter depends on the double coincidence of wants, where the other person has what I want and I have what he wants."
+      ]
+    },
+    {
+      "term": "the time is right",
+      "meaning": "the most suitable or advantageous moment to do something.",
+      "examples": [
+        "She saved her money and bought a house when the time was right.",
+        "In the text: money can be held until the time is right to buy."
+      ]
+    }
+  ],
+  "reading": [
+    { "type": "p", "text": "In many parts of the world people are increasingly moving towards a cashless society in which goods are bought with credit cards, electronic transfers, and mobile-phone chips. But dispensing with cash does not mean that money is not used. Money remains at the heart of all our transactions." },
+    { "type": "p", "text": "The disturbing effects of money are well known, inciting everything from miserliness to crime and warfare. Money has been used as a tribute (sign of respect), in religious rites, and for ornamentation. “Blood money” is paid as recompense for murder; brides are bought with “bride money” or given away with dowries to enrich their husbands. Money lends status and power to individuals, families, and nations." },
+    { "type": "h3", "text": "A barter economy" },
+    { "type": "p", "text": "Without money, people could only barter. Many of us barter to a small extent, when we return favors. A man might offer to mend his neighbor's broken door in return for a few hours of babysitting, for instance. Yet it is hard to imagine these personal exchanges working on a larger scale. What would happen if you wanted a loaf of bread and all you had to trade was your new car? Barter depends on the double coincidence of wants, where not only does the other person happen to have what I want, but I also have what he wants." },
+    { "type": "p", "text": "Money solves all these problems. There is no need to find someone who wants what you have to trade; you simply pay for your goods with money. The seller can then take the money and buy from someone else. Money is transferable and deferrable—the seller can hold on to it and buy when the time is right. Many argue that complex civilizations could never have arisen without the flexibility of exchange that money allows. Money also gives a yardstick for deciding the value of things. If all goods have a monetary value, we can know and compare every cost." },
+    { "type": "h3", "text": "Different kinds of money" },
+    { "type": "p", "text": "There are two kinds of money: commodity and fiat. Commodity money has intrinsic value besides its specified worth, for example when gold coins are used as currency. Fiat money, first used in China in the 10th century, is money that is simply a token of exchange with no value other than that assigned to it by the government. A paper bank note is fiat money." },
+    { "type": "p", "text": "Many paper currencies were initially “promises to pay” against gold held in reserve. In theory dollars issued by the US Federal Reserve could be exchanged for their gold value. Since 1971, the value of a dollar has no longer been convertible to gold and is set entirely by the US Treasury, without reference to its gold reserves. Such fiat currencies rely on people's confidence in a country's economic stability, which is not always assured." },
+    { "type": "callout", "title": "Shelling out", "text": "Wampum were strings of white and black shell beads treasured by the indigenous North Americans of the Eastern Woodland tribes. Before the European settlers arrived in the 15th century, wampum was used mainly for ceremonial purposes—to record an agreement or to pay tribute. Its value came from the immense skill involved in making it.\n\nWhen Europeans arrived, their tools revolutionized wampum making, and Dutch colonizers mass-produced the beads by the million. Soon they were using wampum to trade with the native peoples, who valued it. Wampum became a currency with an accepted exchange rate, but its use and value diminished in the 1670s." },
+    { "type": "quote", "text": "But you don't need to barter if you have coins.", "who": "The Economics Book" }
+  ],
+  "mcq": [
+    {
+      "stem": "According to the text, what does moving toward a cashless society mean for money?",
+      "options": [
+        "Money is no longer used at all.",
+        "Money still remains at the heart of all our transactions.",
+        "Only barter is used instead of money.",
+        "Gold replaces electronic payments."
+      ],
+      "answer": 1,
+      "explain": "The text says that dispensing with cash does not mean money is not used—money remains at the heart of all transactions."
+    },
+    {
+      "stem": "What is the “double coincidence of wants” that barter depends on?",
+      "options": [
+        "Both people must want money instead of goods.",
+        "Each person must happen to have exactly what the other one wants.",
+        "Two buyers must want the same item at once.",
+        "The price must be agreed by two sellers."
+      ],
+      "answer": 1,
+      "explain": "Barter needs the other person to have what I want and for me to have what he wants—a double coincidence of wants."
+    },
+    {
+      "stem": "Why does the text say money is useful as a “yardstick”?",
+      "options": [
+        "Because it can be melted down into gold bars.",
+        "Because it lets us know and compare the value of all goods.",
+        "Because it never loses its value over time.",
+        "Because it can only be used for large purchases."
+      ],
+      "answer": 1,
+      "explain": "Money gives a yardstick for value: if all goods have a monetary value, we can know and compare every cost."
+    },
+    {
+      "stem": "What is the difference between commodity money and fiat money?",
+      "options": [
+        "Commodity money is paper; fiat money is metal.",
+        "Commodity money has intrinsic value (like gold); fiat money's value is only what the government assigns it.",
+        "Commodity money is modern; fiat money is ancient.",
+        "There is no real difference between them."
+      ],
+      "answer": 1,
+      "explain": "Commodity money has intrinsic value besides its face value (e.g. gold coins); fiat money is just a token with value assigned by the government."
+    },
+    {
+      "stem": "What does fiat money ultimately rely on for its value?",
+      "options": [
+        "The amount of gold held in reserve.",
+        "People's confidence in a country's economic stability.",
+        "The weight of the coins or notes.",
+        "An exchange rate fixed by other countries."
+      ],
+      "answer": 1,
+      "explain": "Since fiat currencies are not backed by gold, they rely on people's confidence in a country's economic stability, which is not always assured."
+    }
+  ],
+  "discussion": [
+    {
+      "stem": "The text says barter only works with a “double coincidence of wants.” Think of a real situation where barter would be difficult, and explain how money solves the problem.",
+      "hint": "Pick an everyday example—buying lunch, paying rent, getting a haircut. Ask: would the other person want exactly what you have to offer? Then show how money removes the need for that lucky match.",
+      "sample": "Imagine I am a music teacher and I want to buy a bicycle. With barter, I would have to find a bicycle seller who also happens to want music lessons—a very unlikely match. If they want something else, no trade can happen. Money solves this: I am paid in money for my lessons by anyone who wants them, and I use that money to buy the bicycle from a seller who does not care what I do for a living. Money removes the need for a double coincidence of wants."
+    },
+    {
+      "stem": "Fiat money (like banknotes) has no value of its own—it is worth something only because people trust it. Do you think this is a strong or a weak basis for money? Explain.",
+      "hint": "Consider both sides: trust-based money is flexible and easy to produce, but what happens if people lose confidence (think of inflation or a banking crisis)? Compare it with gold, which has value even if trust collapses.",
+      "sample": "I think trust is both the strength and the weakness of fiat money. It is a strength because it lets governments create and manage money easily, which helps the economy grow without needing piles of gold. But it is also a weakness, because if people lose confidence—during very high inflation, for example—the money can quickly become almost worthless, as has happened in some countries. So fiat money works well in a stable society, but it depends on good management and public trust to stay valuable."
+    },
+    {
+      "stem": "Wampum, gold coins, and paper notes have all been used as money. What qualities do you think something needs in order to work well as money? Give reasons.",
+      "hint": "Think about what makes money practical: is it easy to carry, hard to fake, widely accepted, durable, and divisible into smaller amounts? Test your ideas against wampum, gold, and modern cards.",
+      "sample": "I think good money needs to be widely accepted, durable, easy to carry, hard to copy, and divisible into smaller units. Gold works well because it lasts and is hard to fake, but it is heavy. Wampum was accepted and skillfully made, but once Europeans mass-produced it, it lost value—so being hard to copy matters a lot. Paper notes and cards are light and easy to divide, but they depend on trust and technology. Overall, the most important quality is that everyone agrees to accept it, because money only works if people believe others will take it too."
+    }
+  ]
+}
