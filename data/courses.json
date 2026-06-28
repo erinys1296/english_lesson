@@ -1,0 +1,22 @@
+{
+  "siteTitle": "English Reading Studio",
+  "siteSubtitle": "線上閱讀課程教材",
+  "courses": [
+    {
+      "id": "economics",
+      "title": "The Economics Book",
+      "subtitle": "經濟學經典概念閱讀",
+      "icon": "📘",
+      "color": "#2E75B6",
+      "lessons": [
+        {
+          "id": "property-rights",
+          "title": "Property Should Be Private",
+          "subtitle": "Property Rights · pp.20–21",
+          "duration": "25 min",
+          "file": "lessons/property-rights.json"
+        }
+      ]
+    }
+  ]
+}

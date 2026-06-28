@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Course</title>
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+  <div class="crumb" id="crumb"></div>
+  <div class="wrap">
+    <div id="root"><p class="loading">載入中…</p></div>
+    <footer>線上閱讀課程教材</footer>
+  </div>
+  <script src="assets/app.js"></script>
+  <script>renderCourse().catch(e=>{document.getElementById('root').innerHTML='<p class="loading">載入失敗：'+e.message+'</p>';});</script>
+</body>
+</html>

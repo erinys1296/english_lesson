@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>English Reading Studio</title>
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+  <div class="wrap">
+    <div class="site-head">
+      <h1 id="site-title">Loading…</h1>
+      <div class="sub" id="site-sub"></div>
+    </div>
+    <div class="grid" id="grid"><p class="loading">載入中…</p></div>
+    <footer>線上閱讀課程教材</footer>
+  </div>
+  <script src="assets/app.js"></script>
+  <script>renderHome().catch(e=>{document.getElementById('grid').innerHTML='<p class="loading">載入失敗：'+e.message+'</p>';});</script>
+</body>
+</html>
